@@ -20,9 +20,7 @@
 using namespace std;
 
 //Colocar o caminho para onder o arquivo .csv será criado.
-const char* dir_arq = "C:\\Users\\20222301150\\source\\repos\\A4BASES\\A4BASES\\";
-//const char* dir_arq = "C:\\Users\\artur\\Desktop\\c++\\A4 Completo\\a4\\arquivos\\";
-//const char* dir_arq = "C:\\Users\\jessy\\OneDrive\\Documentos\\Faculdade\\2° Semestre\\a4\\";
+const char* dir_arq = "C:\\Users\\";
 char nome_arq[255];
 
 // Repositório interno
